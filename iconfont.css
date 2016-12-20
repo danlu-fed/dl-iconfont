@@ -1,10 +1,10 @@
 
 @font-face {font-family: "dl-icon";
-  src: url('iconfont.eot?t=1482212736459'); /* IE9*/
-  src: url('iconfont.eot?t=1482212736459#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1482212736459') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1482212736459') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1482212736459#dl-icon') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1482215127852'); /* IE9*/
+  src: url('iconfont.eot?t=1482215127852#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1482215127852') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1482215127852') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1482215127852#dl-icon') format('svg'); /* iOS 4.1- */
 }
 
 .dl-icon {
@@ -15,5 +15,5 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.dli-icon-jazzysnail:before { content: "\e602"; }
+.dli-logo:before { content: "\e603"; }
 
