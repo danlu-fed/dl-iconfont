@@ -1,3 +1,3 @@
 # dl-iconfont
 
-iconfont 字体图标 gh-page
+iconfont `gh-pages`
