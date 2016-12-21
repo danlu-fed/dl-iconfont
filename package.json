@@ -1,0 +1,23 @@
+{
+  "name": "iconfont",
+  "version": "1.0.0",
+  "description": "iconfont `gh-pages`",
+  "main": "index.js",
+  "scripts": {
+    "depoly": "gh-pages -d site",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danlu-fed/iconfont.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danlu-fed/iconfont/issues"
+  },
+  "homepage": "https://github.com/danlu-fed/iconfont#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
