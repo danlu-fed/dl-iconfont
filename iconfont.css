@@ -1,10 +1,10 @@
 
 @font-face {font-family: "dl-icon";
-  src: url('iconfont.eot?t=1482220442497'); /* IE9*/
-  src: url('iconfont.eot?t=1482220442497#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url('iconfont.woff?t=1482220442497') format('woff'), /* chrome, firefox */
-  url('iconfont.ttf?t=1482220442497') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1482220442497#dl-icon') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1483587469404'); /* IE9*/
+  src: url('iconfont.eot?t=1483587469404#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1483587469404') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1483587469404') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1483587469404#dl-icon') format('svg'); /* iOS 4.1- */
 }
 
 .dl-icon {
@@ -15,8 +15,6 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.dli-logo:before { content: "\e603"; }
-
 .dli-error:before { content: "\e605"; }
 
 .dli-success:before { content: "\e606"; }
@@ -24,4 +22,22 @@
 .dli-warning:before { content: "\e607"; }
 
 .dli-help:before { content: "\e608"; }
+
+.dli-add-o:before { content: "\e609"; }
+
+.dli-add:before { content: "\e60a"; }
+
+.dli-error-o:before { content: "\e60b"; }
+
+.dli-help-o:before { content: "\e60c"; }
+
+.dli-search-o:before { content: "\e60d"; }
+
+.dli-location:before { content: "\e60e"; }
+
+.dli-search:before { content: "\e60f"; }
+
+.dli-warning-o:before { content: "\e610"; }
+
+.dli-success-o:before { content: "\e611"; }
 
